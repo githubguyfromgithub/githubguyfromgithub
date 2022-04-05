@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... being a cool guy B)
 - 🌱 I’m currently learning ... python?????
 - 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... dont
+- 📫 How to reach me ... don't
 
 <!---
 githubguyfromgithub/githubguyfromgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
